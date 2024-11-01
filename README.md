@@ -8,7 +8,7 @@ Web Developer and Engineer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sabrusabarish@gmail.com](mailto:sabrusabarish@gmail.com)
-* 🚀  I'm currently working on [DevOverflow](http://github.com/S-a-b-a-r-i-s-h/stack_overflow_nextjs13)
+* 🚀  I'm currently learning DSA.
 * 🧠  I'm learning Next.js
 * ⚡  Active Learner
 
